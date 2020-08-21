@@ -43,7 +43,7 @@ int main()
                 exit(0);
             }
 
-            default:cout<<"\nWrong choice entered.";
+            default:cout<<"\nWrong choice entered. Please enter again...";
         }
     } while (choice);
     cout<<"\n\n";
