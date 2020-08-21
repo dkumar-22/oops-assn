@@ -13,9 +13,9 @@ class add_number
 
 void add_number::inputnum()
 {
-    cout<<"\na:";
+    cout<<"\nEnter a:";
     cin>>a;
-    cout<<"\nb:";
+    cout<<"\nEnter b:";
     cin>>b;
 }
 
